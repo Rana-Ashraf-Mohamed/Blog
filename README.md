@@ -1,4 +1,3 @@
-```markdown
 # Blog Backend
 
 This is a backend application for a blog with authentication, authorization, email verification, and CRUD operations for posts built using Node.js and PostgreSQL.
